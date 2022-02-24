@@ -42,7 +42,7 @@
  
   </div>
 
-<a href="https://gist.githubusercontent.com/Ajx-Abu/c68a8ccac838005277a28d658469162a"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgist.github.com%2F&template=https%3A%2F%2Fgithub.com%2FAjx-Abu%2Fdeployeor"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
